@@ -6,7 +6,7 @@ import platform
 from background import keep_alive
 
 load_dotenv()
-bot = TeleBot("7422012459:AAEg3BixunxMPpXtSwnb9kV5jhPezXjx61c")
+bot = TeleBot(os.getenv("BOT_TOKEN"))
 
 # if platform.node() == "Alexey":
 way_to_data = 'data/data_repeater.csv'
