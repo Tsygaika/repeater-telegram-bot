@@ -21,6 +21,7 @@ def repeat_1(bot, call, way_to_data):
     df = df.loc[df['tg_id'] == call.message.chat.id]  # оставляем колоды только этого пользователя
     df = df.loc[df['created_flag'] == False]    #убираем тех.инфу
     df = df[pd.to_datetime(df['date_of_repeat']) <= datetime.now()]  # отсеиваем по времени
+    df = df[df['is_hidden']!=1]
 
     markup = types.InlineKeyboardMarkup(row_width=1)
     for i in range(len(pack_list)):
@@ -48,6 +49,7 @@ def repeat_2(bot, message, flag, pack_name, way_to_data):
         df = df.loc[df['pack_name'] == pack_name]
     df = df.loc[df['created_flag'] == False]
     df = df[pd.to_datetime(df['date_of_repeat']) <= datetime.now()] #отсеиваем по времени
+    df = df[df['is_hidden'] != 1]
 
     if  df.empty:
         if pack_name == 'random':
@@ -98,7 +100,8 @@ def repeat_3(bot, call, way_to_data):
     btn2 = types.InlineKeyboardButton(text='Средне', callback_data=f'medium:{flag}:{name}:{ind}')
     btn3 = types.InlineKeyboardButton(text='Сложно', callback_data=f'hard:{flag}:{name}:{ind}')
     btn4 = types.InlineKeyboardButton(text='Повторить еще раз', callback_data=f'again:{flag}:{name}:{ind}')
-    markup.add(btn1, btn2, btn3, btn4)
+    btn5 = types.InlineKeyboardButton(text='Скрыть пару', callback_data=f'hide:{flag}:{name}:{ind}')
+    markup.add(btn1, btn2, btn3, btn4, btn5)
 
     first, second = row['front_word'], row['back_word'] #задаем слова
     if flag[-1] != '1': first, second = second, first   #меняем их, если режим другой

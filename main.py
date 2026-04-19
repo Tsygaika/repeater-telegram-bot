@@ -29,6 +29,7 @@ def start(message):
 def help(message):
     bot.send_message(message.chat.id, "Список команд\n\n/add - добавить карточки в колоду\n/create - создать колоду"
                                       "\n/watch - посмотреть колоду\n/repeat - повторить слова\n/delpair - удалить пару слов\n"
+                                      "/hidden - посмотреть скрытые пары\n"
                                       "/download - скачать слова из всех колод\n\n/view 50 - посмотреть список слов, "
                                       "отправленных в чат\n /pop 10 - удалить топ 10 слов по частоте")
 
@@ -80,6 +81,16 @@ def pop(message):
 def view(message):
     from commands.wordix.view import view
     view(bot, message, way_to_wordix_db)
+
+# @bot.message_handler(commands=['add_is_hidden_column']) #посмотреть слова в списке wordix
+# def view(message):
+#     from commands.hide import add_is_hidden_column
+#     add_is_hidden_column(bot, message, way_to_data)
+
+@bot.message_handler(commands=['hidden']) #посмотреть слова в списке wordix
+def view(message):
+    from commands.hide import show_hidden
+    show_hidden(bot, message, way_to_data)
 
 ################ ОБРАБОТКА КНОПОК ################
 @bot.callback_query_handler(func = lambda call:True)
@@ -170,6 +181,23 @@ def buttons(call):
         from commands.repeat import edit
         edit(bot, call, way_to_data)
 
+    elif call.data.startswith('hide:'):
+        from commands.hide import hide_1
+        hide_1(bot, call)
+
+    elif call.data.startswith('hide_2:'):
+        from commands.hide import hide_2
+        hide_2(bot, call, way_to_data)
+
+    elif call.data.startswith('cancel:'):
+        from commands.hide import cancel
+        cancel(bot, call, way_to_data)
+
+    elif call.data.startswith('continue:'):
+        from commands.repeat import repeat_2
+        flag, name, ind = call.data.replace('continue:', '').split(':')
+        repeat_2(bot, call.message, flag[0], name, way_to_data)
+
     else:   #иначе это названия его колод
         bot.send_message(call.message.chat.id, "произошло исключение")
         print('ИСКЛЮЧЕНИЕ')
@@ -178,8 +206,16 @@ def buttons(call):
 @bot.message_handler(content_types=['text'])
 def text_received(message):
     text = message.text
-    if "/" in text:
-        bot.send_message(message.chat.id, "Неизвестная команда")
+    if text.startswith('/'):
+        if text.startswith('/show '):
+            end = text.replace('/show ', '')
+            if end.isdigit() and '-' not in text:
+                from commands.hide import show_pair
+                show_pair(bot, message, int(end), way_to_data)
+            else:
+                bot.send_message(message.chat.id, "Неправильный формат команды")
+        else:
+            bot.send_message(message.chat.id, "Неизвестная команда")
 
     else:
         from commands.wordix.add_word import add_word
