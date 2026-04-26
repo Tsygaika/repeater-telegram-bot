@@ -91,9 +91,20 @@ def repeat_3(bot, call, way_to_data):
     if name != 'random':
         df = df.loc[df['pack_name'] == name]
     df = df.loc[df['created_flag'] == False]    #эта строка и ниже чисто, чтобы получить правильное количество строк
-    df = df[pd.to_datetime(df['date_of_repeat']) <= datetime.now()]  # отсеиваем по времени
-    rows = df.shape[0]
-    row = df.loc[int(ind)]    #оставляем ту строку, у которой название как нужный индекс
+    rows = df[(pd.to_datetime(df['date_of_repeat']) <= datetime.now()) & (df['is_hidden'] != 1)].shape[0]
+
+    row = df.loc[int(ind)]
+    if str(row['date_of_repeat'])>str(datetime.now().date()):
+        markup = types.InlineKeyboardMarkup(row_width=1)
+        call_data_info = call.data.replace('check:', '')
+        btn = types.InlineKeyboardButton(text='Продолжить повторение', callback_data=f"continue:{call_data_info}")
+        markup.add(btn)
+
+        bot.edit_message_text("Вы уже повторили эту пару", call.message.chat.id, message_id=call.message.message_id,
+                              reply_markup=markup)
+        return
+
+    row = df.loc[int(ind)]
 
     markup = types.InlineKeyboardMarkup(row_width=3)
     btn1 = types.InlineKeyboardButton(text='Легко', callback_data=f'easy:{flag}:{name}:{ind}')
@@ -120,7 +131,11 @@ def edit(bot, call, way_to_data):
     react, flag, name, ind = call.data.split(':')
     if name != 'random':
         df = df.loc[df['pack_name'] == name]
+
     row = df.loc[int(ind)]
+    if row['date_of_repeat']>str(datetime.now().date()): #это проверка, чтобы при параллельном повторении длина не менялась дважды
+        repeat_2(bot, message, flag[0], name, way_to_data)
+        return
 
     repeat_length = row['repeat_length']    #получаем предыдущий промежуток
 
