@@ -1,4 +1,4 @@
-tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,is_hidden
+﻿tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,is_hidden
 875771161,Phrasal verbs,True,,,0,0.0,0
 875771161,Phrasal verbs,False,Look after,Присматривать/заботиться,2026-07-03,113.330078125,0
 875771161,Phrasal verbs,False,look out for,Думать о/быть осторожным с,2026-04-30,49.2578125,0
@@ -6,22 +6,22 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Phrasal verbs,False,Look up,Искать что-то,2026-09-03,170.9951171875,0
 875771161,Phrasal verbs,False,Look forward to,ждать с нетерпением,2026-08-29,170.9951171875,0
 875771161,Phrasal verbs,False,worn out,изношенный,2026-08-29,170.9951171875,0
-875771161,Phrasal verbs,False,cut in,вмешиваться,2026-04-25,8.125,0
+875771161,Phrasal verbs,False,cut in,вмешиваться,2026-05-10,13.1875,0
 875771161,Phrasal verbs,False,shoot up,быстро расти,2026-04-26,2.5,0
 875771161,Phrasal verbs,False,get on,ладить,2026-08-29,170.9951171875,0
 875771161,Phrasal verbs,False,show around,показывать местность,2026-08-29,170.9951171875,0
 875771161,Phrasal verbs,False,be broke,быть на мели,2026-04-30,49.2578125,0
 875771161,Phrasal verbs,False,keep up with,идти в ногу с,2026-04-30,4.75,0
-875771161,Phrasal verbs,False,give up,сдаваться,2026-04-25,8.125,0
+875771161,Phrasal verbs,False,give up,сдаваться,2026-05-14,13.1875,0
 875771161,Phrasal verbs,False,keep on,продолжать,2026-06-01,49.2578125,0
 875771161,Phrasal verbs,False,find out,выяснить,2026-09-03,170.9951171875,0
 875771161,Phrasal verbs,False,bring up,воспитывать,2026-05-08,13.1875,0
 875771161,Phrasal verbs,False,make fun of,высмеивать,2026-06-27,170.9951171875,0
 875771161,Phrasal verbs,False,Take in,Впустить,2026-08-29,170.9951171875,0
 875771161,Phrasal verbs,False,Take after,быть похожим,2026-04-25,0.0,0
-875771161,Phrasal verbs,False,Take off,взлетать/снимать,2026-04-25,8.125,0
+875771161,Phrasal verbs,False,Take off,взлетать/снимать,2026-05-10,13.1875,0
 875771161,Phrasal verbs,False,Take out,Вынимать,2026-09-03,170.9951171875,0
-875771161,Phrasal verbs,False,Take up,Приступить,2026-04-22,0.0,0
+875771161,Phrasal verbs,False,Take up,Приступить,2026-04-30,0.0,0
 875771161,Phrasal verbs,False,Take over,Взять на себя/перенимать,2026-09-03,170.9951171875,0
 875771161,Phrasal verbs,False,catch up,догонять/наверстать,2026-05-08,13.1875,0
 875771161,Phrasal verbs,False,cut up,испортить/разрезать,2026-07-03,113.330078125,0
@@ -36,17 +36,17 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Phrasal verbs,False,over and done with,полностью законченный,2026-04-21,8.125,0
 875771161,Phrasal verbs,False,come up with,предлагать,2026-05-30,74.88671875,0
 875771161,Phrasal verbs,False,Get into,попасть в,2026-08-29,170.9951171875,0
-875771161,Phrasal verbs,False,Pick on,придираться/ издеваться,2026-04-19,2.5,0
+875771161,Phrasal verbs,False,Pick on,придираться/ издеваться,2026-05-01,4.75,0
 875771161,Phrasal verbs,False,Pick up,Забирать/ поднимать/ улучшать,2026-08-29,170.9951171875,0
 875771161,Phrasal verbs,False,Pick out,выбирать,2026-07-03,113.330078125,0
 875771161,Phrasal verbs,False,Pick at,есть нехотя,2026-07-03,113.330078125,0
 875771161,Phrasal verbs,False,Run away from,Убегать от,2026-05-09,13.1875,0
-875771161,Phrasal verbs,False,Run into,Встретиться/ натолкнуться,2026-04-25,8.125,0
-875771161,Phrasal verbs,False,Run out of,закончиться,2026-04-25,8.125,0
+875771161,Phrasal verbs,False,Run into,Встретиться/ натолкнуться,2026-05-13,13.1875,0
+875771161,Phrasal verbs,False,Run out of,закончиться,2026-05-10,13.1875,0
 875771161,Phrasal verbs,False,Run over,переехать/ задавить,2026-04-21,4.75,0
 875771161,Phrasal verbs,False,Run on,Работать на чем-то (батарейках/...),2026-08-29,170.9951171875,0
-875771161,Phrasal verbs,False,Put away,Откладывать,2026-04-25,8.125,0
-875771161,Phrasal verbs,False,Cut down on,Сокращать,2026-04-19,2.5,0
+875771161,Phrasal verbs,False,Put away,Откладывать,2026-05-12,13.1875,0
+875771161,Phrasal verbs,False,Cut down on,Сокращать,2026-04-30,0.0,0
 875771161,Phrasal verbs,False,Switch off,Выключать,2026-05-25,74.88671875,0
 875771161,Phrasal verbs,False,Throw away,Выбрасывать,2026-08-29,170.9951171875,0
 875771161,Phrasal verbs,False,Put up with,Мириться с,2026-05-01,113.330078125,0
@@ -112,7 +112,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Module 1,False,invitation ,приглашение,2026-07-17,113.330078125,0
 875771161,Module 1,False,appearance ,внешность,2026-08-30,170.9951171875,0
 875771161,Module 1,False,knit ,вязать,2026-09-12,170.9951171875,0
-875771161,Module 1,False,plain ,простой,2026-04-22,4.75,0
+875771161,Module 1,False,plain ,простой,2026-05-08,8.125,0
 875771161,Module 1,False,rapidly ,быстро,2026-08-31,170.9951171875,0
 875771161,Module 1,False,rarely ,редко,2026-08-31,170.9951171875,0
 875771161,Module 1,False,sight ,вид/зрелище,2026-08-31,170.9951171875,0
@@ -142,7 +142,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Module 1,False,rescue ,спасение/освобождение,2026-09-12,170.9951171875,0
 875771161,Module 2,True,,,0,0.0,0
 875771161,Module 2,False,Archery,стрельба из лука,2026-09-13,170.9951171875,0
-875771161,Module 2,False,Afford,позволить себе,2026-03-28,1.0,0
+875771161,Module 2,False,Afford,позволить себе,2026-05-01,2.5,0
 875771161,Module 2,False,by cheque,оплата чеком,2026-09-13,170.9951171875,0
 875771161,Module 2,False,make ends meet,сводить концы с концами,2026-09-13,170.9951171875,0
 875771161,Module 2,False,adventurous,любящий приключения,2026-07-18,113.330078125,0
@@ -151,7 +151,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Module 2,False,reserved,сдержанный/ замкнутый,2026-07-18,113.330078125,0
 875771161,Module 2,False,to slide,скользить,2026-09-13,170.9951171875,0
 875771161,Module 2,False,play it cool,не терять самообладания,2026-04-23,2.5,0
-875771161,Module 2,False,accommodate,размещаться,2026-04-24,2.5,0
+875771161,Module 2,False,accommodate,размещаться,2026-05-01,4.75,0
 875771161,Module 2,False,complete,завершить/завершенный,2026-04-25,4.75,0
 875771161,Module 2,False,neighbourhood,окружающий район,2026-09-13,170.9951171875,0
 875771161,Module 2,False,work long hours,работать допоздна,2026-09-13,170.9951171875,0
@@ -167,9 +167,9 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Module 2,False,refurnish,переоборудовать,2026-07-18,113.330078125,0
 875771161,Module 2,False,urban,городской,2026-09-13,170.9951171875,0
 875771161,Module 2,False,suppose,предполагать/ думать,2026-06-09,74.88671875,0
-875771161,Module 2,False,apology,извинение/ оправдание,2026-04-28,32.171875,0
+875771161,Module 2,False,apology,извинение/ оправдание,2026-04-29,0.0,0
 875771161,Module 2,False,reminder,напоминание/ памятка,2026-07-18,113.330078125,0
-875771161,Module 2,False,resemble,иметь сходство,2026-04-28,32.171875,0
+875771161,Module 2,False,resemble,иметь сходство,2026-06-17,49.2578125,0
 875771161,Module 3,True,,,0,0.0,0
 875771161,Module 3,False,Attend ,посещать,2026-09-15,170.9951171875,0
 875771161,Module 3,False,Strict ,Строгий,2026-07-20,113.330078125,0
@@ -180,10 +180,10 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Module 3,False,Can't stand ,Не выносить,2026-06-11,74.88671875,0
 875771161,Module 3,False,Follow in one's steps ,идти по чьим-то стопам,2026-05-17,49.2578125,0
 875771161,Module 3,False,Jack-of-all-trades ,мастер на все руки,2026-07-20,113.330078125,0
-875771161,Module 3,False,Arrangement ,договоренность,2026-04-15,2.5,0
+875771161,Module 3,False,Arrangement ,договоренность,2026-05-04,4.75,0
 875771161,Module 3,False,Building site ,Строительная площадка,2026-07-20,113.330078125,0
 875771161,Module 3,False,It's no wonder ,неудивительно,2026-07-20,113.330078125,0
-875771161,Module 3,False,Affection ,Любовь/ привязанность,2026-04-17,4.75,0
+875771161,Module 3,False,Affection ,Любовь/ привязанность,2026-05-07,8.125,0
 875771161,Module 3,False,Ashamed ,Которого пристыдили,2026-09-15,170.9951171875,0
 875771161,Module 3,False,Depart ,отправляться/ уезжать,2026-05-17,49.2578125,0
 875771161,Module 3,False,Joy ,радость,2026-07-20,113.330078125,0
@@ -192,29 +192,29 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Module 3,False,Gain ,получать/ приобретать,2026-07-20,113.330078125,0
 875771161,Module 3,False,Trustworhty ,заслуживающий доверия,2026-07-20,113.330078125,0
 875771161,Module 3,False,Range ,диапазон/ ассортимент,2026-05-17,49.2578125,0
-875771161,Module 3,False,Brief ,краткий,2026-04-15,2.5,0
+875771161,Module 3,False,Brief ,краткий,2026-05-03,4.75,0
 875771161,Module 3,False,Condition ,условие/ состояние,2026-04-15,2.5,0
 875771161,Module 3,False,Artificial ,искусственный,2026-09-15,170.9951171875,0
 875771161,Module 3,False,Increasingly ,все больше и больше,2026-05-17,49.2578125,0
 875771161,Module 3,False,Do my best ,делать все возможное,2026-07-20,113.330078125,0
 875771161,Module 3,False,well-mannered ,с хорошими манерами,2026-09-15,170.9951171875,0
 875771161,Module 4,True,,,0,0.0,0
-875771161,Module 4,False,Eliminate,Устранять,2026-04-27,2.5,0
+875771161,Module 4,False,Eliminate,Устранять,2026-05-03,4.75,0
 875771161,Module 4,False,Cooker,кухонная плита,2026-09-19,170.9951171875,0
 875771161,Module 4,False,Towel,Полотенце,2026-09-19,170.9951171875,0
 875771161,Module 4,False,Wrap,заворачивать/ обертывать,2026-07-24,113.330078125,0
 875771161,Module 4,False,Adopt,принимать/ усыновлять,2026-09-01,170.9951171875,0
-875771161,Module 4,False,Conservation,сохранение,2026-04-19,2.5,0
+875771161,Module 4,False,Conservation,сохранение,2026-05-01,4.75,0
 875771161,Module 4,False,Decrease,уменьшение,2026-04-23,2.5,0
-875771161,Module 4,False,Enclosure,ограда,2026-04-25,8.125,0
+875771161,Module 4,False,Enclosure,ограда,2026-05-10,13.1875,0
 875771161,Module 4,False,In return for,В оплату за,2026-05-03,49.2578125,0
 875771161,Module 4,False,Extinction,вымирание/ исчезновение,2026-07-24,113.330078125,0
-875771161,Module 4,False,Marine,Морской,2026-04-23,2.5,0
+875771161,Module 4,False,Marine,Морской,2026-05-03,4.75,0
 875771161,Module 4,False,Obligatory,обязательный,2026-07-06,113.330078125,0
 875771161,Module 4,False,Permission,разрешение/ позволение,2026-07-24,113.330078125,0
 875771161,Module 4,False,Belt,ремень,2026-09-19,170.9951171875,0
 875771161,Module 4,False,branch,ветка,2026-09-19,170.9951171875,0
-875771161,Module 4,False,Broad,Широкий,2026-04-18,1.0,0
+875771161,Module 4,False,Broad,Широкий,2026-04-30,2.5,0
 875771161,Module 4,False,Cheek,Щека,2026-07-24,113.330078125,0
 875771161,Module 4,False,Vanish,исчезать,2026-04-18,1.0,0
 875771161,Module 4,False,Aspect,сторона/ аспект,2026-07-24,113.330078125,0
@@ -232,15 +232,15 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Module 4,False,Camouflage,маскировка,2026-05-04,32.171875,0
 875771161,Appendix 1,True,,,0,0.0,0
 875771161,Appendix 1,False,advise sb against ,советовать кому-либо не делать чего-либо,2026-10-07,170.9951171875,0
-875771161,Appendix 1,False,apply for ,подавать заявление,2026-01-06,113.330078125,0
-875771161,Appendix 1,False,avid of ,алчный/ жадный до,2026-04-22,0.0,0
+875771161,Appendix 1,False,apply for ,подавать заявление,2026-05-01,1.0,0
+875771161,Appendix 1,False,avid of ,алчный/ жадный до,2026-04-29,1.0,0
 875771161,Appendix 1,False,be careless with ,быть небрежным с,2026-10-07,170.9951171875,0
 875771161,Appendix 1,False,cope with ,справляться с,2026-05-26,32.171875,0
-875771161,Appendix 1,False,enthusiastic about ,увлеченный чем-то,2025-11-28,74.88671875,0
-875771161,Appendix 1,False,feel strongly about ,быть против/ испытывать чувство возмущения,2025-09-23,49.2578125,0
+875771161,Appendix 1,False,enthusiastic about ,увлеченный чем-то,2026-05-01,1.0,0
+875771161,Appendix 1,False,feel strongly about ,быть против/ испытывать чувство возмущения,2026-07-10,74.88671875,0
 875771161,Appendix 1,False,fond of ,любить что-либо,2025-09-28,13.1875,0
 875771161,Appendix 1,False,in captivity ,в плену,2026-10-11,170.9951171875,0
-875771161,Appendix 1,False,mistake sb for ,принимать кого-либо за другого,2026-04-19,0.0,0
+875771161,Appendix 1,False,mistake sb for ,принимать кого-либо за другого,2026-04-30,1.0,0
 875771161,Appendix 1,False,out of order ,неисправный,2026-10-08,170.9951171875,0
 875771161,Appendix 1,False,recover from ,выздоравливать,2025-10-21,113.330078125,0
 875771161,Appendix 1,False,resign from ,уволиться с,2025-10-21,113.330078125,0
@@ -273,12 +273,12 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Instead of,вместо,2026-07-02,170.9951171875,0
 875771161,New words,False,Behavior,Поступки/поведение,2026-07-08,170.9951171875,0
 875771161,New words,False,Contemporary,Современный,2026-07-11,170.9951171875,0
-875771161,New words,False,Taste,Вкус,2026-04-26,1.0,0
+875771161,New words,False,Taste,Вкус,2026-04-30,2.5,0
 875771161,New words,False,Overcoming,Преодоление,2026-05-02,8.125,0
 875771161,New words,False,Crime,Преступление,2026-05-09,113.330078125,0
 875771161,New words,False,Cancer,рак,2026-08-02,170.9951171875,0
 875771161,New words,False,Already,Уже,2026-07-11,170.9951171875,0
-875771161,New words,False,Yet,Еще,2026-04-28,13.1875,0
+875771161,New words,False,Yet,Еще,2026-05-20,20.78125,0
 875771161,New words,False,then,Потом,2026-05-08,113.330078125,0
 875771161,New words,False,than,Чем,2026-07-08,170.9951171875,0
 875771161,New words,False,Thus,Таким образом,2026-07-08,170.9951171875,0
@@ -295,7 +295,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Minor,Незначительный,2026-07-18,170.9951171875,0
 875771161,New words,False,Measure,Мера/степень/измерять,2026-07-01,170.9951171875,0
 875771161,New words,False,Responsibility,Обязанность/ответственность,2026-04-23,13.1875,0
-875771161,New words,False,Peaceful,Спокойный,2026-04-23,2.5,0
+875771161,New words,False,Peaceful,Спокойный,2026-05-01,4.75,0
 875771161,New words,False,Sick,Больной,2026-07-29,170.9951171875,0
 875771161,New words,False,Hunger strike,Голодовка,2026-07-13,170.9951171875,0
 875771161,New words,False,Suddenly,Вдруг/внезапно,2026-07-19,170.9951171875,0
@@ -308,14 +308,14 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Well in advance,Заранее,2026-06-01,113.330078125,0
 875771161,New words,False,Length,Продолжительность,2026-06-09,49.2578125,0
 875771161,New words,False,Decide,Принять решение,2026-05-03,13.1875,0
-875771161,New words,False,Non-refundable,Невозвратный,2026-04-12,49.2578125,0
+875771161,New words,False,Non-refundable,Невозвратный,2026-07-12,74.88671875,0
 875771161,New words,False,Destination,Место назначения,2026-07-14,170.9951171875,0
 875771161,New words,False,Requirements,Требования,2026-07-20,170.9951171875,0
 875771161,New words,False,Departure,Отправление,2026-07-12,170.9951171875,0
 875771161,New words,False,Domestic,Домашний,2026-07-03,170.9951171875,0
 875771161,New words,False,Stopover,Пересадка,2026-08-05,113.330078125,0
 875771161,New words,False,Scale,Шкала,2026-04-20,74.88671875,0
-875771161,New words,False,Allowance,Разрешение/допуск,2026-04-28,4.75,0
+875771161,New words,False,Allowance,Разрешение/допуск,2026-05-07,8.125,0
 875771161,New words,False,Hurry up,Торопиться,2026-07-08,170.9951171875,0
 875771161,New words,False,Carry-on,Ручная кладь,2026-07-01,170.9951171875,0
 875771161,New words,False,Dine in,Есть внутри,2026-07-01,170.9951171875,0
@@ -334,7 +334,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Note,Записывать,2026-05-19,113.330078125,0
 875771161,New words,False,Before,Раньше,2026-05-29,49.2578125,0
 875771161,New words,False,Significant,Важный,2026-05-30,113.330078125,0
-875771161,New words,False,Common,Общепринятый/обычный,2026-04-24,8.125,0
+875771161,New words,False,Common,Общепринятый/обычный,2026-05-10,13.1875,0
 875771161,New words,False,Rise,Рост,2026-05-14,113.330078125,0
 875771161,New words,False,Response,Ответ/реакция,2026-05-17,32.171875,0
 875771161,New words,False,Cutting-edge,Передовая(технология),2026-07-05,170.9951171875,0
@@ -379,20 +379,20 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Farther(расстояние) / further(абстрактное) ,Дальше,2026-07-06,74.88671875,0
 875771161,New words,False,Fear ,Страх,2026-07-16,170.9951171875,0
 875771161,New words,False,Silent ,Молчаливый,2026-07-14,170.9951171875,0
-875771161,New words,False,Invention ,Изобретение,2026-04-16,4.75,0
+875771161,New words,False,Invention ,Изобретение,2026-05-05,8.125,0
 875771161,New words,False,Regret ,Сожалеть,2026-05-12,20.78125,0
 875771161,New words,False,Horrible ,Ужасный,2026-07-13,170.9951171875,0
 875771161,New words,False,Complain ,Жаловаться,2026-08-01,113.330078125,0
 875771161,New words,False,Behind ,Позади,2026-07-13,170.9951171875,0
 875771161,New words,False,Confuse ,Путать,2026-05-04,13.1875,0
-875771161,New words,False,Upset ,Расстраивать,2026-04-23,1.0,0
+875771161,New words,False,Upset ,Расстраивать,2026-05-04,4.75,0
 875771161,New words,False,Weak ,Слабый,2026-05-16,113.330078125,0
 875771161,New words,False,Worry ,Беспокоится,2026-04-28,2.5,0
 875771161,New words,False,Bush ,куст,2026-05-07,113.330078125,0
 875771161,New words,False,Similar ,Похожий,2026-07-13,170.9951171875,0
 875771161,New words,False,Root ,Корень,2026-07-12,170.9951171875,0
 875771161,New words,False,Let ,Позволить,2026-05-19,113.330078125,0
-875771161,New words,False,Assistance ,Помощь,2026-04-19,4.75,0
+875771161,New words,False,Assistance ,Помощь,2026-05-05,8.125,0
 875771161,New words,False,Explain ,Описывать/объяснять,2026-04-24,13.1875,0
 875771161,New words,False,Fault ,вина,2026-07-03,170.9951171875,0
 875771161,New words,False,Forgive ,Простить,2026-05-07,113.330078125,0
@@ -420,27 +420,27 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Disappointed ,Расстроенный,2026-08-16,113.330078125,0
 875771161,New words,False,Perhaps ,Возможно/пожалуй,2026-05-18,32.171875,0
 875771161,New words,False,Argue ,Спорить,2026-05-20,113.330078125,0
-875771161,New words,False,Disease ,Болезнь,2026-04-20,49.2578125,0
+875771161,New words,False,Disease ,Болезнь,2026-07-10,74.88671875,0
 875771161,New words,False,Determine ,Определить,2026-05-31,113.330078125,0
 875771161,New words,False,Seem ,Казаться,2026-07-07,170.9951171875,0
 875771161,New words,False,Stock ,Запас,2026-05-01,20.78125,0
-875771161,New words,False,Quite ,Достаточно/вполне,2026-04-22,1.0,0
+875771161,New words,False,Quite ,Достаточно/вполне,2026-04-30,0.0,0
 875771161,New words,False,Outfit ,наряд,2026-05-08,113.330078125,0
 875771161,New words,False,Within ,Внутри,2026-05-09,113.330078125,0
-875771161,New words,False,Beyond ,Вне/за пределами,2026-04-10,4.75,0
+875771161,New words,False,Beyond ,Вне/за пределами,2026-05-06,8.125,0
 875771161,New words,False,Furthermore ,К тому же,2026-04-24,0.0,0
 875771161,New words,False,Although ,Хотя,2026-05-05,113.330078125,0
 875771161,New words,False,Definitely ,Определённо,2026-04-13,74.88671875,1
 875771161,New words,False,Basically ,В основном,2026-05-09,13.1875,0
-875771161,New words,False,Appropriate ,Соответствующий,2026-04-08,2.5,0
-875771161,New words,False,Valuable ,Ценный,2026-04-24,0.0,0
+875771161,New words,False,Appropriate ,Соответствующий,2026-05-02,4.75,0
+875771161,New words,False,Valuable ,Ценный,2026-04-30,1.0,0
 875771161,New words,False,Reliable ,Надёжный,2026-04-29,13.1875,0
 875771161,New words,False,Involve ,Вовлекать,2026-07-29,170.9951171875,0
-875771161,New words,False,Improve ,Улучшать,2026-04-24,1.0,0
+875771161,New words,False,Improve ,Улучшать,2026-04-29,2.5,0
 875771161,New words,False,Encourage ,Поддержать,2026-04-20,13.1875,0
 875771161,New words,False,Develop ,Развивать,2026-07-02,170.9951171875,0
 875771161,New words,False,Consider ,Рассматривать/учитывать,2026-06-28,74.88671875,0
-875771161,New words,False,Journey ,Путешествие,2026-04-16,20.78125,0
+875771161,New words,False,Journey ,Путешествие,2026-05-30,32.171875,0
 875771161,New words,False,Effort ,Усилие,2026-07-08,74.88671875,0
 875771161,New words,False,Conversation ,Разговор,2026-03-23,20.78125,0
 875771161,New words,False,Freedom ,свобода/независимость,2026-05-18,113.330078125,0
@@ -459,7 +459,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Submit ,представлять на рассмотрение,2026-04-07,0.0,0
 875771161,New words,False,Maintain ,поддерживать/сохранять,2026-07-21,170.9951171875,0
 875771161,New words,False,lack ,недостаток/отсутствие,2026-07-10,170.9951171875,0
-875771161,New words,False,essentially ,по сути,2026-03-23,0.0,0
+875771161,New words,False,essentially ,по сути,2026-04-29,0.0,0
 875771161,New words,False,Notice ,уведомление/внимание/отмечать,2026-07-13,170.9951171875,0
 875771161,New words,False,plug ,вилка (электрическая),2026-07-10,170.9951171875,0
 875771161,New words,False,Prevent ,предотвращать,2026-08-11,113.330078125,0
@@ -470,7 +470,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Respond ,откликнуться,2026-05-01,20.78125,0
 875771161,New words,False,Property ,собственность,2026-04-13,1.0,0
 875771161,New words,False,Though ,хотя,2026-07-29,170.9951171875,0
-875771161,New words,False,Spread ,распространение,2026-04-23,0.0,0
+875771161,New words,False,Spread ,распространение,2026-05-01,1.0,0
 875771161,New words,False,rate ,ставка/темп,2026-07-05,170.9951171875,0
 875771161,New words,False,Approve ,одобрить,2026-05-25,113.330078125,0
 875771161,New words,False,Bill ,закон/счет,2026-07-03,170.9951171875,0
@@ -493,24 +493,24 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Receive ,Получать,2026-07-28,113.330078125,0
 875771161,New words,False,Attempt ,попытка/пытаться,2026-04-24,1.0,0
 875771161,New words,False,Refuse ,отказываться,2026-11-20,257.49267578125,0
-875771161,New words,False,Remain ,оставаться,2026-04-26,0.0,0
+875771161,New words,False,Remain ,оставаться,2026-04-30,1.0,0
 875771161,New words,False,Occup ,занимать,2026-05-17,113.330078125,0
 875771161,New words,False,Brush ,щетка,2026-05-05,74.88671875,0
 875771161,New words,False,Finally ,окончательно/наконец,2026-07-06,74.88671875,0
 875771161,New words,False,Claim ,требование/требовать,2026-03-14,20.78125,0
 875771161,New words,False,Establish ,установить,2026-07-28,113.330078125,0
-875771161,New words,False,mostly ,в основном,2026-04-28,8.125,0
+875771161,New words,False,mostly ,в основном,2026-05-13,13.1875,0
 875771161,New words,False,Despite ,несмотря на,2026-05-09,13.1875,0
 875771161,New words,False,Unique ,уникальный,2026-07-14,170.9951171875,0
 875771161,New words,False,Coast ,побережье,2026-07-10,170.9951171875,0
 875771161,New words,False,Regard ,внимание/ уважение,2026-03-31,13.1875,0
 875771161,New words,False,Till ,до/пока,2026-05-31,113.330078125,0
 875771161,New words,False,Literally ,буквально,2026-07-07,170.9951171875,0
-875771161,New words,False,Belong ,принадлежать,2026-04-26,2.5,0
+875771161,New words,False,Belong ,принадлежать,2026-05-02,4.75,0
 875771161,New words,False,Corner ,угол,2026-05-11,113.330078125,0
 875771161,New words,False,Judge ,судья/судить,2026-07-18,170.9951171875,0
 875771161,New words,False,Solid ,твердый/прочный,2026-04-29,4.75,0
-875771161,New words,False,Due ,соответствующий,2026-04-24,0.0,0
+875771161,New words,False,Due ,соответствующий,2026-05-01,1.0,0
 875771161,New words,False,Distribution ,распределение/распространение,2026-05-15,20.78125,0
 875771161,New words,False,Disaster ,катастрофа,2026-08-03,113.330078125,0
 875771161,New words,False,Forecast ,прогноз,2026-05-03,13.1875,0
@@ -520,8 +520,8 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Duty ,обязанность,2026-03-22,2.5,0
 875771161,New words,False,Anxiety ,беспокойство/тревога,2026-05-10,32.171875,0
 875771161,New words,False,Sense ,чувство,2026-07-26,170.9951171875,0
-875771161,New words,False,Capacity ,вместимость/способность,2026-03-24,4.75,0
-875771161,New words,False,Exhaust ,истощать,2026-04-23,13.1875,0
+875771161,New words,False,Capacity ,вместимость/способность,2026-05-07,8.125,0
+875771161,New words,False,Exhaust ,истощать,2026-05-17,20.78125,0
 875771161,New words,False,harmful ,вредный/пагубный,2026-05-23,113.330078125,0
 875771161,New words,False,impression ,впечатление,2026-08-03,113.330078125,0
 875771161,New words,False,threat ,опасность/угроза,2026-07-02,170.9951171875,0
@@ -572,12 +572,12 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Bunch,связка,2026-05-15,113.330078125,0
 875771161,New words,False,Shame,Стыд,2026-06-10,113.330078125,0
 875771161,New words,False,Yell,кричать,2026-06-24,74.88671875,0
-875771161,New words,False,Certain,определенный,2026-04-14,2.5,0
+875771161,New words,False,Certain,определенный,2026-05-01,4.75,0
 875771161,New words,False,Amid,среди,2026-04-30,20.78125,0
 875771161,New words,False,Punish,наказывать,2026-07-07,170.9951171875,0
 875771161,New words,False,Justify,оправдывать/ обосновывать,2026-03-17,49.2578125,0
 875771161,New words,False,Familiar,Знакомый,2026-07-05,170.9951171875,0
-875771161,New words,False,Preserve,сохранять,2026-04-20,4.75,0
+875771161,New words,False,Preserve,сохранять,2026-05-05,8.125,0
 875771161,New words,False,Truly,поистине/действительно,2026-04-23,4.75,0
 875771161,New words,False,Carry,нести/ перевозить,2026-07-14,170.9951171875,0
 875771161,New words,False,Stick,придерживаться/ прилипать,2026-07-07,170.9951171875,0
@@ -587,14 +587,14 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Otherwise,в противном случае/ иначе,2026-04-23,2.5,0
 875771161,New words,False,No matter,не имеет значения,2026-05-15,20.78125,0
 875771161,New words,False,Survey,опрос,2026-07-16,170.9951171875,0
-875771161,New words,False,Handle,справляться,2026-04-24,2.5,0
+875771161,New words,False,Handle,справляться,2026-05-03,4.75,0
 875771161,New words,False,Warn,Предупреждать,2026-07-23,170.9951171875,0
 875771161,New words,False,Emerged,возникший,2026-07-01,170.9951171875,0
 875771161,New words,False,Set up,устраивать/ организовывать,2026-04-10,0.0,0
 875771161,New words,False,Back then,тогда/ в то время,2026-05-14,113.330078125,0
 875771161,New words,False,By far,безусловно/ намного,2026-05-13,113.330078125,0
 875771161,New words,False,Worthy,достойный,2026-05-01,20.78125,0
-875771161,New words,False,Likely,вероятно,2026-04-24,0.0,0
+875771161,New words,False,Likely,вероятно,2026-05-02,2.5,0
 875771161,New words,False,Aimed,Нацеленный,2026-07-07,170.9951171875,0
 875771161,New words,False,Will,Воля,2026-05-27,113.330078125,0
 875771161,New words,False,District,район/ округ,2026-05-10,49.2578125,0
@@ -615,19 +615,19 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Pretend,притворяться,2026-07-02,170.9951171875,0
 875771161,New words,False,Steal,воровать,2026-07-07,170.9951171875,0
 875771161,New words,False,Remote,отдаленный,2026-05-31,113.330078125,0
-875771161,New words,False,Favor,одолжение,2026-04-28,8.125,0
+875771161,New words,False,Favor,одолжение,2026-05-13,13.1875,0
 875771161,New words,False,Freak out,беситься/ сходить с ума,2026-07-07,74.88671875,0
 875771161,New words,False,Even still,даже сейчас,2026-06-04,49.2578125,0
 875771161,New words,False,Neither,ни,2026-05-12,113.330078125,0
-875771161,New words,False,Terrified,напуганный,2026-04-08,0.0,0
+875771161,New words,False,Terrified,напуганный,2026-04-28,0.0,0
 875771161,New words,False,to dump,бросить,2026-04-28,4.75,0
 875771161,New words,False,Yummy,вкусный,2026-07-10,170.9951171875,0
 875771161,New words,False,Punishment,наказание,2026-05-30,113.330078125,0
 875771161,New words,False,Fate,судьба,2026-06-28,74.88671875,0
-875771161,New words,False,Permanently,постоянно,2026-04-21,0.0,0
+875771161,New words,False,Permanently,постоянно,2026-04-28,1.0,0
 875771161,TEMP,True,,,0,0.0,0
 875771161,TEMP,False,text,текст,2024-11-25,1.0,0
-875771161,TEMP,False,текст,текст,2026-04-24,2.5,0
+875771161,TEMP,False,текст,текст,2026-04-24,2.5,1
 875771161,TEMP,False,text,text,2024-11-25,1.0,1
 875771161,New words,False,Account,счет (в банке),2026-05-17,113.330078125,0
 875771161,New words,False,Narrate,рассказывать,2026-05-06,113.330078125,0
@@ -660,17 +660,17 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Upon ,на/ по/ после,2026-07-22,170.9951171875,0
 875771161,New words,False,Wrecking ,разрушительный/ губительный,2026-06-29,74.88671875,0
 875771161,New words,False,Lovely ,прекрасный,2026-05-07,13.1875,0
-875771161,New words,False,Precious ,драгоценный,2026-04-23,8.125,0
+875771161,New words,False,Precious ,драгоценный,2026-05-12,13.1875,0
 875771161,New words,False,Merge ,сливаться/ соединяться,2026-05-06,113.330078125,0
 875771161,New words,False,Starve ,голодать,2026-05-22,113.330078125,0
-875771161,New words,False,Prime ,основной/ первичный/ простой,2026-04-27,20.78125,0
+875771161,New words,False,Prime ,основной/ первичный/ простой,2026-06-02,32.171875,0
 875771161,New words,False,Fight ,бороться,2026-07-12,170.9951171875,0
 875771161,New words,False,Gather ,собирать,2026-05-31,49.2578125,0
 875771161,New words,False,Stuck ,застрять/ застрявший,2026-07-01,170.9951171875,0
 875771161,New words,False,Loan ,заем,2026-07-28,113.330078125,0
 875771161,New words,False,Magnified ,увеличенный,2026-05-08,13.1875,0
 875771161,New words,False,Meal ,еда/ прием пищи,2026-05-10,113.330078125,0
-875771161,New words,False,Crew ,экипаж/ команда,2026-04-24,32.171875,0
+875771161,New words,False,Crew ,экипаж/ команда,2026-06-17,49.2578125,0
 875771161,New words,False,Capture ,захватить/ захватывать,2026-07-24,170.9951171875,0
 875771161,New words,False,Feature ,особенность/ характерная черта,2026-05-16,113.330078125,0
 875771161,New words,False,to link ,связывать/ ссылаться,2026-07-13,170.9951171875,0
@@ -686,16 +686,16 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Module 5,False,countless,бесчисленный,2026-04-28,2.5,0
 875771161,Module 5,False,crack,трещина/ трескаться,2026-07-07,113.330078125,0
 875771161,Module 5,False,extend,продлить/ расширить,2026-05-29,74.88671875,0
-875771161,Module 5,False,magnificent,великолепный,2026-04-24,0.0,0
+875771161,Module 5,False,magnificent,великолепный,2026-04-28,1.0,0
 875771161,Module 5,False,sunrise,восход,2026-09-02,170.9951171875,0
 875771161,Module 5,False,sunset,закат,2026-09-02,170.9951171875,0
 875771161,Module 5,False,spectacular,захватывающий,2026-04-27,1.0,0
 875771161,Module 5,False,temple,храм,2026-05-24,32.171875,0
 875771161,Module 5,False,trail,тропа,2026-05-04,49.2578125,0
 875771161,Module 5,False,rude,грубый,2026-07-07,113.330078125,0
-875771161,Module 5,False,matter,дело (вопрос),2026-04-27,1.0,0
+875771161,Module 5,False,matter,дело (вопрос),2026-05-01,2.5,0
 875771161,Module 5,False,hit the road,отправиться в путь,2026-07-07,113.330078125,0
-875771161,Module 5,False,repel,отталкивать,2026-04-20,1.0,0
+875771161,Module 5,False,repel,отталкивать,2026-04-20,1.0,1
 875771161,Module 5,False,tidy,чистый/ прибирать,2026-07-07,113.330078125,0
 875771161,Module 5,False,lose,терять,2026-07-07,113.330078125,0
 875771161,Module 5,False,miss,пропускать,2026-09-02,170.9951171875,0
@@ -711,13 +711,13 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Module 5,False,jewels,драгоценности,2026-04-27,4.75,0
 875771161,Module 5,False,ramp,уклон/ скат,2026-04-26,4.75,0
 875771161,Module 5,False,slave,раб,2026-03-17,1.0,0
-875771161,Module 5,False,wonder,чудо,2026-04-26,1.0,0
+875771161,Module 5,False,wonder,чудо,2026-05-01,1.0,0
 875771161,Phrasal verbs,False,roll up,завернуть/ скатывать,2026-05-10,32.171875,0
 875771161,New words,False,starve,голодать/ умирать с голоду,2026-04-30,20.78125,0
 875771161,New words,False,Confident(Confidence),уверенный(Уверенность),2026-05-14,32.171875,0
-875771161,New words,False,Rid,освобождать/ избавлять,2026-03-14,4.75,0
+875771161,New words,False,Rid,освобождать/ избавлять,2026-05-07,8.125,0
 875771161,New words,False,Within,внутри/ в пределах,2026-05-06,113.330078125,0
-875771161,New words,False,Outcome,результат/ исход,2026-04-16,8.125,0
+875771161,New words,False,Outcome,результат/ исход,2026-05-10,13.1875,0
 875771161,New words,False,Leadership,руководство,2026-05-06,113.330078125,0
 875771161,New words,False,Deserve,заслуживать,2026-04-25,13.1875,0
 875771161,New words,False,Fulfill,выполнять,2026-05-08,113.330078125,0
@@ -725,11 +725,11 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Accurate,точный/ правильный,2026-04-21,0.0,0
 875771161,New words,False,Term,срок,2026-05-04,8.125,0
 875771161,New words,False,awhile,некоторое время,2026-05-08,113.330078125,0
-875771161,New words,False,Ultimate,окончательный,2026-04-18,74.88671875,0
+875771161,New words,False,Ultimate,окончательный,2026-08-19,113.330078125,0
 875771161,New words,False,Contrary,противоположный/ наоборот,2026-05-05,113.330078125,0
 875771161,New words,False,concerning to,касательно/касающийся,2026-04-25,2.5,0
 875771161,New words,False,Attitude,позиция/ отношение,2026-05-06,113.330078125,0
-875771161,New words,False,specify,уточнять/ указывать,2026-04-23,13.1875,0
+875771161,New words,False,specify,уточнять/ указывать,2026-05-19,20.78125,0
 875771161,New words,False,Miserable,жалкий/ несчастный,2026-07-11,170.9951171875,0
 875771161,New words,False,Settle,селиться,2026-05-02,32.171875,0
 875771161,New words,False,Elsewhere,В другом месте,2026-05-10,49.2578125,0
@@ -740,7 +740,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Food,True,,,0,0.0,0
 875771161,Food,False,crab,краб,2026-10-05,170.9951171875,0
 875771161,Food,False,lobster,лобстер,2026-09-10,170.9951171875,0
-875771161,Food,False,mussels,мидии,2026-04-19,1.0,0
+875771161,Food,False,mussels,мидии,2026-04-29,2.5,0
 875771161,Food,False,prawns,креветки,2026-05-20,32.171875,0
 875771161,Food,False,salmon,лосось,2026-07-15,113.330078125,0
 875771161,Food,False,squid,кальмар/ осьминог,2026-09-10,170.9951171875,0
@@ -754,7 +754,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Food,False,cherries,вишня/ черешня,2026-07-15,113.330078125,0
 875771161,Food,False,courgette,кабачок,2026-05-08,20.78125,0
 875771161,Food,False,peach,персик,2026-09-10,170.9951171875,0
-875771161,Food,False,pear,груша,2026-04-26,2.5,0
+875771161,Food,False,pear,груша,2026-05-02,4.75,0
 875771161,Food,False,raspberries,малина,2026-04-26,4.75,0
 875771161,Food,False,pepper,перец,2026-10-05,170.9951171875,0
 875771161,Food,False,fried,жареный на сковороде,2026-10-05,170.9951171875,0
@@ -765,7 +765,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Food,False,steamed,приготовленный на пару,2026-10-05,170.9951171875,0
 875771161,Food,False,raw,сырой,2026-07-15,113.330078125,0
 875771161,Food,False,apricot,абрикос,2026-08-09,113.330078125,0
-875771161,Food,False,raisin,изюм,2026-04-25,2.5,0
+875771161,Food,False,raisin,изюм,2026-05-03,4.75,0
 875771161,Food,False,mandarin,мандарин,2026-09-10,170.9951171875,0
 875771161,Food,False,beans,бобы/ фасоль,2026-07-15,113.330078125,0
 875771161,Food,False,fig,инжир,2026-07-15,113.330078125,0
@@ -780,18 +780,18 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,Food,False,sausages,сосиски,2026-09-10,170.9951171875,0
 875771161,Food,False,turkey,индейка,2026-09-10,170.9951171875,0
 875771161,Food,False,ham,ветчина,2026-04-25,32.171875,0
-875771161,Food,False,plum,слива,2026-04-25,2.5,0
+875771161,Food,False,plum,слива,2026-05-02,4.75,0
 875771161,Food,False,toasted,поджаренный,2026-06-06,74.88671875,0
 875771161,Food,False,tinned,консервированный,2026-05-01,13.1875,0
-875771161,Food,False,low-fat,с низким содержанием жира,2026-04-19,1.0,0
+875771161,Food,False,low-fat,с низким содержанием жира,2026-05-02,2.5,0
 875771161,Food,False,fizzy water,вода с газом,2026-07-15,113.330078125,0
 875771161,Food,False,still water,вода без газа,2026-09-10,170.9951171875,0
 875771161,Personality,True,,,0,0.0,0
-875771161,Personality,False,Spoilt,избалованный,2025-09-23,49.2578125,0
+875771161,Personality,False,Spoilt,избалованный,2026-07-12,74.88671875,0
 875771161,Personality,False,Mature,зрелый,2026-05-23,32.171875,0
 875771161,Personality,False,Sensible,разумный/ здравомыслящий,2026-04-22,0.0,0
 875771161,Personality,False,insecure,неуверенный в себе,2025-11-01,74.88671875,0
-875771161,Personality,False,stubborn,упрямый/ непреклонный,2025-10-04,74.88671875,0
+875771161,Personality,False,stubborn,упрямый/ непреклонный,2026-08-19,113.330078125,0
 875771161,Personality,False,rebellious,мятежный/ бунтарский,2025-11-01,74.88671875,0
 875771161,Personality,False,affectionate,любящий,2026-07-02,74.88671875,0
 875771161,Personality,False,responsible,ответственный,2025-10-18,74.88671875,0
@@ -799,7 +799,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Instantly,немедленно,2026-05-08,113.330078125,0
 875771161,New words,False,Thread,нить,2026-05-23,113.330078125,0
 875771161,New words,False,Fabulous,невероятный/ потрясающий,2026-07-09,74.88671875,0
-875771161,New words,False,Bond,связь,2026-04-26,49.2578125,0
+875771161,New words,False,Bond,связь,2026-07-12,74.88671875,0
 875771161,New words,False,Coverage,охват (покрытие),2026-08-07,113.330078125,0
 875771161,New words,False,Struggle,борьба,2026-08-10,113.330078125,0
 875771161,New words,False,Pour,лить/ наливать,2026-05-11,20.78125,0
@@ -820,16 +820,16 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Representative,представитель,2026-04-26,20.78125,0
 875771161,New words,False,Overwhelming,подавляющий/ ошеломляющий,2026-08-14,113.330078125,0
 875771161,New words,False,Decent,приличный/ порядочный,2026-07-03,74.88671875,0
-875771161,New words,False,Humiliating,унизительный,2026-04-17,49.2578125,0
+875771161,New words,False,Humiliating,унизительный,2026-07-14,74.88671875,0
 875771161,New words,False,Circumstances,обстоятельства/ условия,2026-05-14,113.330078125,0
 875771161,New words,False,Adore,обожать/ поклоняться,2026-04-17,49.2578125,0
-875771161,New words,False,Guilty,виновный,2026-04-26,20.78125,0
+875771161,New words,False,Guilty,виновный,2026-05-30,32.171875,0
 875771161,New words,False,Owe,быть должным,2026-05-25,113.330078125,0
 875771161,New words,False,Mortgage,ипотека,2026-05-05,13.1875,0
 875771161,New words,False,To hand,Передавать,2026-04-21,1.0,0
-875771161,New words,False,Numerous,многочисленный,2026-04-27,20.78125,0
+875771161,New words,False,Numerous,многочисленный,2026-04-28,0.0,0
 875771161,New words,False,Beg,просить/ умолять,2026-05-10,113.330078125,0
-875771161,New words,False,Integrity,прямота/ честность,2026-04-26,20.78125,0
+875771161,New words,False,Integrity,прямота/ честность,2026-06-01,32.171875,0
 875771161,New words,False,Forbidden,Запрещённый,2026-05-25,113.330078125,0
 875771161,New words,False,Bless,благословлять,2026-07-02,74.88671875,0
 875771161,New words,False,Pivot,точка вращения/ стержень,2026-05-30,74.88671875,0
@@ -853,39 +853,39 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,assign,назначать/ присваивать,2026-07-29,113.330078125,0
 875771161,New words,False,Frustrated,расстроенный/ неудавшийся,2026-05-11,113.330078125,0
 875771161,New words,False,Labor,труд,2026-05-07,113.330078125,0
-875771161,New words,False,Align,выравнивать,2026-04-26,0.0,0
-875771161,New words,False,Incorporate,включать/объединять,2026-04-26,0.0,0
+875771161,New words,False,Align,выравнивать,2026-05-01,1.0,0
+875771161,New words,False,Incorporate,включать/объединять,2026-05-01,1.0,0
 875771161,New words,False,Density,плотность,2026-06-20,74.88671875,0
-875771161,New words,False,Demolish,сносить/ разрушать,2026-04-25,0.0,0
+875771161,New words,False,Demolish,сносить/ разрушать,2026-04-28,1.0,0
 875771161,New words,False,Meanwhile,тем временем/ между тем,2026-07-29,113.330078125,0
 875771161,New words,False,Allocate,назначать/ распределять,2026-03-27,20.78125,0
-875771161,New words,False,Rely,полагаться/ надеяться,2026-04-22,2.5,0
-875771161,New words,False,Obtain,получать/ приобретать,2026-04-15,0.0,0
+875771161,New words,False,Rely,полагаться/ надеяться,2026-05-02,4.75,0
+875771161,New words,False,Obtain,получать/ приобретать,2026-04-28,1.0,0
 875771161,New words,False,Supervise,контролировать/ наблюдать,2026-05-31,49.2578125,0
-875771161,New words,False,Fairly,довольно/ весьма,2026-04-15,0.0,0
-875771161,New words,False,Genuinely,искренне; неподдельно,2026-04-25,1.0,0
+875771161,New words,False,Fairly,довольно/ весьма,2026-04-28,1.0,0
+875771161,New words,False,Genuinely,искренне; неподдельно,2026-05-02,2.5,0
 875771161,New words,False,Odd,странный,2026-08-03,113.330078125,0
 875771161,New words,False,Announcement,объявление,2026-05-06,49.2578125,0
 875771161,New words,False,In essence,по существу,2026-05-11,49.2578125,0
 875771161,New words,False,Expose,разоблачать/ подвергать,2026-03-24,1.0,0
 875771161,New words,False,Demand,требование; требовать,2026-04-15,0.0,0
-875771161,New words,False,Frighten,пугать,2026-04-27,2.5,0
+875771161,New words,False,Frighten,пугать,2026-05-05,4.75,0
 875771161,New words,False,Caught,пойманный,2026-07-03,74.88671875,0
 875771161,New words,False,Concern,беспокойство,2026-04-28,8.125,0
 875771161,New words,False,Wisdom,мудрость,2026-08-13,113.330078125,0
 875771161,New words,False,Relevant,уместный/ подходящий,2026-04-26,0.0,0
 875771161,New words,False,Heaven,небо; небеса,2026-04-13,74.88671875,0
 875771161,New words,False,expire,истекать (о сроке),2026-08-03,113.330078125,0
-875771161,New words,False,Joint,совместный,2026-04-25,1.0,0
+875771161,New words,False,Joint,совместный,2026-05-01,0.0,0
 875771161,New words,False,Amplify,усиливать/ увеличивать,2026-04-30,8.125,0
 875771161,New words,False,Lean,опираться,2026-05-08,13.1875,0
 875771161,New words,False,Clarified,проясненный,2026-08-07,113.330078125,0
 875771161,New words,False,Intention,намерение/ стремление,2026-05-06,20.78125,0
 875771161,New words,False,exceed,превышать/ превосходить,2026-04-04,32.171875,0
-875771161,New words,False,Destiny,Судьба,2026-04-27,20.78125,0
+875771161,New words,False,Destiny,Судьба,2026-06-01,32.171875,0
 875771161,New words,False,Jeopardize,Подвергать опасности,2026-07-02,74.88671875,0
 875771161,New words,False,Negotiation,переговоры,2026-08-02,113.330078125,0
-875771161,New words,False,Occasion,случай/ повод,2026-03-28,74.88671875,0
+875771161,New words,False,Occasion,случай/ повод,2026-08-20,113.330078125,0
 875771161,New words,False,Pass,проходить/ проход,2026-08-10,113.330078125,0
 875771161,New words,False,Twist,крутить/ поворот,2026-05-23,32.171875,0
 875771161,New words,False,sacrifice,жертва/ жертвовать,2026-05-16,32.171875,0
@@ -896,26 +896,26 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Enforcement,принуждение,2026-06-25,74.88671875,0
 875771161,New words,False,Advance,продвижение,2026-04-27,13.1875,0
 875771161,New words,False,Dare,осмеливаться,2026-05-02,8.125,0
-875771161,New words,False,Previously,ранее/предварительно/заранее,2026-04-23,49.2578125,0
+875771161,New words,False,Previously,ранее/предварительно/заранее,2026-07-11,74.88671875,0
 875771161,New words,False,Melt,таять/ плавить,2026-07-02,74.88671875,0
 875771161,New words,False,Rip,разрыв/ рвать,2026-05-28,32.171875,0
 875771161,New words,False,Evaluate,оценивать/ вычислять,2026-04-23,13.1875,0
-875771161,New words,False,Extension,расширение/ продление,2026-04-25,0.0,0
+875771161,New words,False,Extension,расширение/ продление,2026-04-29,1.0,0
 875771161,New words,False,Convince,убеждать,2026-05-25,49.2578125,0
 875771161,New words,False,Accomplish,выполнять/ достигать/ завершать,2026-05-02,8.125,0
 875771161,New words,False,Pointless,бессмысленный,2026-05-04,8.125,0
 875771161,New words,False,Proceed,продолжать/ приступать,2026-05-25,32.171875,0
 875771161,New words,False,Savor,вкус/ наслаждаться,2026-04-28,20.78125,0
 875771161,New words,False,Holy,святой,2026-04-29,4.75,0
-875771161,New words,False,Withdraw,выводить/ снимать,2026-04-28,49.2578125,0
+875771161,New words,False,Withdraw,выводить/ снимать,2026-07-13,74.88671875,0
 875771161,New words,False,Hilarious,уморительный,2026-04-20,0.0,0
-875771161,New words,False,Shrink,сокращаться/ уменьшаться,2026-04-25,0.0,0
+875771161,New words,False,Shrink,сокращаться/ уменьшаться,2026-04-29,1.0,0
 875771161,New words,False,Abandon,оставлять/ покидать,2026-05-01,8.125,0
-875771161,New words,False,Deputy,заместитель/ депутат,2026-04-19,0.0,0
+875771161,New words,False,Deputy,заместитель/ депутат,2026-05-01,1.0,0
 875771161,New words,False,Decline,снижение,2026-05-05,13.1875,0
 875771161,New words,False,respectively,соответственно,2026-05-01,8.125,0
 875771161,New words,False,Scholar,ученый,2026-06-25,74.88671875,0
-875771161,New words,False,southern,южный,2026-04-18,49.2578125,0
+875771161,New words,False,southern,южный,2026-07-12,74.88671875,0
 875771161,New words,False,significantly,значительно/ существенно,2026-04-17,1.0,0
 875771161,New words,False,showcase,демонстрировать/ витрина,2026-05-01,20.78125,0
 875771161,New words,False,outnumber,превосходить численно,2026-05-26,49.2578125,0
@@ -925,7 +925,7 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,recreation,отдых/ развлечение,2026-05-01,8.125,0
 875771161,New words,False,neglect,пренебрежение/ игнорирование,2026-05-05,20.78125,0
 875771161,New words,False,fetch,извлечь/ получить,2026-04-22,0.0,0
-875771161,New words,False,spill,проливать,2026-04-24,0.0,0
+875771161,New words,False,spill,проливать,2026-05-01,1.0,0
 875771161,New words,False,tend,иметь тенденцию,2026-07-07,74.88671875,0
 875771161,New words,False,PROFOUNDLY influence emotions,ГЛУБОКО/СИЛЬНО влиять на эмоции,2026-05-10,20.78125,0
 875771161,New words,False,RURAL area,СЕЛЬСКАЯ местность,2026-06-28,74.88671875,0
@@ -934,15 +934,15 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,ACCURACY of calculations,точность,2026-07-03,74.88671875,0
 875771161,New words,False,OPT this product,выбирать/ предпочитать,2026-04-24,1.0,0
 875771161,New words,False,goddess,богиня,2026-05-09,32.171875,0
-875771161,New words,False,loose her,освобождать,2026-04-20,13.1875,0
+875771161,New words,False,loose her,освобождать,2026-05-20,20.78125,0
 875771161,New words,False,hard work and PERSEVERANCE,настойчивость,2026-04-21,0.0,0
 875771161,New words,False,GRATEFUL person,благодарный,2026-05-25,32.171875,0
 875771161,New words,False,ESTIMATE abilities,оценить,2026-04-11,1.0,0
-875771161,New words,False,UTTERLY destroyed,полностью/ абсолютно,2026-04-24,8.125,0
+875771161,New words,False,UTTERLY destroyed,полностью/ абсолютно,2026-05-12,13.1875,0
 875771161,New words,False,phenomenon,явление,2026-05-23,32.171875,0
 875771161,New words,False,kindergarten,детский сад,2026-04-09,20.78125,0
 875771161,New words,False,tension,напряжение,2026-06-28,74.88671875,0
-875771161,New words,False,diversity,разнообразие,2026-04-24,8.125,0
+875771161,New words,False,diversity,разнообразие,2026-05-11,13.1875,0
 875771161,New words,False,heroic DEED,поступок,2026-05-17,32.171875,0
 875771161,New words,False,river CURRENTS,течения,2026-03-05,32.171875,0
 875771161,New words,False,market COLLAPSE,крах/ развал,2026-06-29,74.88671875,0
@@ -953,25 +953,25 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,One of the FOREMOST,выдающийся,2026-05-26,32.171875,0
 875771161,New words,False,police PURSUIT,преследование,2026-04-04,13.1875,0
 875771161,New words,False,EVIDENCE of a crime,доказательства,2026-05-08,49.2578125,0
-875771161,New words,False,Legacy,наследие,2026-04-27,13.1875,0
+875771161,New words,False,Legacy,наследие,2026-05-20,20.78125,0
 875771161,New words,False,RELEVANCE of the expression,уместность,2026-05-22,32.171875,0
 875771161,New words,False,INHIBIT progress,сдерживать/ замедлять,2026-05-02,8.125,0
 875771161,New words,False,ESSENTIAL meaning,существенный,2026-03-22,0.0,0
 875771161,New words,False,CRUCIAL role,ключевой,2026-06-24,74.88671875,0
 875771161,New words,False,humanity,человечество,2026-05-17,32.171875,0
 875771161,New words,False,groom,жених,2026-05-04,13.1875,0
-875771161,New words,False,children's LEISURE,досуг,2026-04-27,8.125,0
+875771161,New words,False,children's LEISURE,досуг,2026-05-13,13.1875,0
 875771161,New words,False,EXTENSIVE estate,обширный/ большой/ богатый,2026-04-12,2.5,0
 875771161,New words,False,INFER nothing,делать вывод,2026-05-05,20.78125,0
 875771161,New words,False,ADJUST the clock,регулировать,2026-04-18,8.125,0
-875771161,New words,False,VITAL role,жизненно важный,2026-04-27,8.125,0
+875771161,New words,False,VITAL role,жизненно важный,2026-05-14,13.1875,0
 875771161,New words,False,Failure to make,Неспособность принять,2026-04-20,13.1875,0
-875771161,New words,False,layer TRANSPARENCY,прозрачность,2026-04-21,2.5,0
+875771161,New words,False,layer TRANSPARENCY,прозрачность,2026-05-01,4.75,0
 875771161,New words,False,athlete,спортсмен,2026-07-05,74.88671875,0
-875771161,New words,False,task ACCOMPLISHMENT,выполнение,2026-04-24,2.5,0
+875771161,New words,False,task ACCOMPLISHMENT,выполнение,2026-05-02,4.75,0
 875771161,New words,False,hyphen,дефис,2026-06-28,74.88671875,0
-875771161,New words,False,dash,тире,2026-04-24,2.5,0
-875771161,New words,False,ensure,обеспечивать/ гарантировать,2026-04-27,1.0,0
+875771161,New words,False,dash,тире,2026-05-01,4.75,0
+875771161,New words,False,ensure,обеспечивать/ гарантировать,2026-04-30,2.5,0
 875771161,New words,False,achieve,достигать,2026-06-23,74.88671875,0
 875771161,New words,False,bias,предвзятость,2026-05-13,20.78125,0
 875771161,New words,False,crop,урожай,2026-05-29,49.2578125,0
@@ -979,18 +979,18 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,knowledge,знание,2026-06-08,49.2578125,0
 875771161,New words,False,infection,заражение,2026-05-26,49.2578125,0
 875771161,New words,False,Cruel,жестокий,2026-05-02,8.125,0
-875771161,New words,False,Odds,шансы,2026-03-22,2.5,0
-875771161,New words,False,Piece,кусок,2026-04-26,0.0,0
-875771161,New words,False,Altogether,в целом,2026-03-18,8.125,0
+875771161,New words,False,Odds,шансы,2026-05-01,4.75,0
+875771161,New words,False,Piece,кусок,2026-05-01,2.5,0
+875771161,New words,False,Altogether,в целом,2026-04-29,0.0,0
 875771161,New words,False,commitment,обязательство,2026-04-27,2.5,0
 875771161,New words,False,regarding,относительно/ касательно,2026-04-20,20.78125,0
 875771161,New words,False,objections,возражения,2026-05-11,20.78125,0
 875771161,New words,False,Distract,отвлекать,2026-05-04,13.1875,0
-875771161,New words,False,Whilst,в то время как,2026-04-28,4.75,0
-875771161,New words,False,Misrepresent,искажать,2026-04-25,0.0,0
+875771161,New words,False,Whilst,в то время как,2026-05-08,8.125,0
+875771161,New words,False,Misrepresent,искажать,2026-04-29,1.0,0
 875771161,New words,False,Whereas,в то время как,2026-04-21,49.2578125,0
 875771161,New words,False,claim,заявлять,2026-04-22,0.0,0
-875771161,New words,False,PORTRAYAL in the book,изображение/образ,2026-04-20,0.0,0
+875771161,New words,False,PORTRAYAL in the book,изображение/образ,2026-04-30,1.0,0
 875771161,New words,False,FOSTER a progress,способствовать,2026-04-26,4.75,0
 875771161,New words,False,depth,глубина,2026-05-08,49.2578125,0
 875771161,New words,False,understand ONESELF,себя,2026-05-12,32.171875,0
@@ -1003,79 +1003,79 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,less(неисчисляемые)/ fewer(исч.),меньше,2026-05-12,20.78125,0
 875771161,New words,False,accurate,точный,2026-06-25,74.88671875,0
 875771161,New words,False,interfere,вмешиваться,2026-04-23,1.0,0
-875771161,New words,False,criterion(criteria),критерий(критерии),2026-03-31,8.125,0
-875771161,New words,False,species,вид/ виды,2026-04-21,1.0,0
+875771161,New words,False,criterion(criteria),критерий(критерии),2026-05-11,13.1875,0
+875771161,New words,False,species,вид/ виды,2026-04-29,2.5,0
 875771161,New words,False,Endangered,находящихся под угрозой исчезновения,2026-03-16,13.1875,0
 875771161,New words,False,Shallow,мелкий,2026-05-09,20.78125,0
 875771161,New words,False,gradually,постепенно,2026-04-29,13.1875,0
-875771161,New words,False,worldwide,всемирный,2026-03-25,2.5,0
+875771161,New words,False,worldwide,всемирный,2026-05-03,4.75,0
 875771161,New words,False,confront,противостоять,2026-05-01,20.78125,0
-875771161,New words,False,vast,огромный/ обширный,2026-03-22,4.75,0
+875771161,New words,False,vast,огромный/ обширный,2026-05-06,8.125,0
 875771161,New words,False,anticipate,ожидать/ предвидеть,2026-05-10,20.78125,0
-875771161,New words,False,habitat,среда обитания,2026-04-24,8.125,0
+875771161,New words,False,habitat,среда обитания,2026-05-11,13.1875,0
 875771161,New words,False,narrow,узкий,2026-05-05,13.1875,0
 875771161,New words,False,youngsters,молодежь,2026-05-08,13.1875,0
 875771161,New words,False,tackle,схватить/ взяться,2026-05-08,13.1875,0
 875771161,New words,False,welfare,благосостояние,2026-05-21,32.171875,0
 875771161,New words,False,reveal,раскрывать/ выявлять,2026-05-03,8.125,0
-875771161,New words,False,safeguarding,защита,2026-04-28,2.5,0
+875771161,New words,False,safeguarding,защита,2026-05-04,4.75,0
 875771161,New words,False,merely,только/ просто/ лишь,2026-04-25,0.0,0
 875771161,New words,False,solely,исключительно/ только,2026-04-20,1.0,0
-875771161,New words,False,acquire,приобретать/ получать,2026-04-16,1.0,0
-875771161,New words,False,Friction,разногласиe,2026-04-22,0.0,0
-875771161,New words,False,naturally,естественно/ разумеется,2026-04-27,4.75,0
+875771161,New words,False,acquire,приобретать/ получать,2026-04-16,1.0,1
+875771161,New words,False,Friction,разногласиe,2026-04-29,1.0,0
+875771161,New words,False,naturally,естественно/ разумеется,2026-05-06,8.125,0
 875771161,New words,False,urgent,срочный,2026-04-27,13.1875,0
 875771161,New words,False,liquid,жидкость,2026-05-08,13.1875,0
 875771161,New words,False,last,длиться,2026-04-27,20.78125,0
 875771161,New words,False,Spite,злоба,2026-05-01,20.78125,0
 875771161,New words,False,biodegradable,биоразлагаемый,2026-05-25,49.2578125,0
-875771161,New words,False,Outburst,взрыв/ вспышка/ выброс,2026-04-23,2.5,0
+875771161,New words,False,Outburst,взрыв/ вспышка/ выброс,2026-05-02,4.75,0
 875771161,New words,False,advocate,адвокат/ сторонник,2026-05-12,20.78125,0
 875771161,New words,False,opponent,противник,2026-05-02,20.78125,0
-875771161,New words,False,enroll,записывать/ регистрировать,2026-04-20,0.0,0
+875771161,New words,False,enroll,записывать/ регистрировать,2026-04-30,0.0,0
 875771161,New words,False,conspiracy,заговор,2026-05-16,32.171875,0
-875771161,New words,False,similarly,аналогично,2026-04-23,4.75,0
+875771161,New words,False,similarly,аналогично,2026-05-01,1.0,0
 875771161,New words,False,possess,обладать/ владеть,2026-04-12,20.78125,0
 875771161,New words,False,squeeze out,выжимать/ выдавливать,2026-05-14,32.171875,0
-875771161,New words,False,dweller,житель/ обитатель,2026-04-24,8.125,0
+875771161,New words,False,dweller,житель/ обитатель,2026-05-11,13.1875,0
 875771161,New words,False,shortage,нехватка,2026-04-24,13.1875,0
-875771161,New words,False,proposal,предложение,2026-04-10,0.0,0
+875771161,New words,False,proposal,предложение,2026-04-29,1.0,0
 875771161,New words,False,conduct,проводить,2026-03-04,8.125,0
 875771161,New words,False,lorry,грузовик,2026-05-26,49.2578125,0
 875771161,New words,False,Comprise,включать/ заключать в себе,2026-04-23,0.0,0
-875771161,New words,False,undermine,подрывать/ разрушать,2026-04-12,20.78125,0
-875771161,New words,False,poorly,плохо,2026-04-27,1.0,0
+875771161,New words,False,undermine,подрывать/ разрушать,2026-05-30,32.171875,0
+875771161,New words,False,poorly,плохо,2026-04-30,2.5,0
 875771161,New words,False,Pull down,тянуть вниз,2026-05-02,32.171875,0
 875771161,New words,False,mixture,смесь,2026-05-16,20.78125,0
-875771161,New words,False,Literate,грамотный/ образованный,2026-04-09,2.5,0
+875771161,New words,False,Literate,грамотный/ образованный,2026-05-04,4.75,0
 875771161,New words,False,reach,достигать,2026-05-02,13.1875,0
 875771161,New words,False,suburb,пригород,2026-05-17,32.171875,0
 875771161,New words,False,in spite of,несмотря на,2026-04-26,0.0,0
 875771161,New words,False,Hollow,Полый/Пустой,2026-04-19,13.1875,0
 875771161,TEMP,False,9,7,2026-02-10,0.0,1
-875771161,New words,False,Desire,Желание/стремление,2026-04-21,0.0,0
+875771161,New words,False,Desire,Желание/стремление,2026-04-28,1.0,0
 875771161,New words,False,Reveal,раскрывать/выявлять,2026-04-30,8.125,0
-875771161,New words,False,Conscious,Сознательный/осознанный,2026-04-10,0.0,0
-875771161,New words,False,sophisticated,утонченный/замысловатый,2026-04-21,0.0,0
+875771161,New words,False,Conscious,Сознательный/осознанный,2026-04-28,1.0,0
+875771161,New words,False,sophisticated,утонченный/замысловатый,2026-04-30,0.0,0
 875771161,New words,False,Tight,Плотный/тесный/герметичный,2026-04-20,4.75,0
 875771161,New words,False,Gratitude,Благодарность/признательность,2026-04-15,0.0,0
 875771161,New words,False,Treating,относиться/обращаться,2026-03-23,0.0,0
-875771161,New words,False,Silly,глупый/нелепый,2026-04-22,0.0,0
+875771161,New words,False,Silly,глупый/нелепый,2026-04-30,0.0,0
 875771161,New words,False,Crave,жаждать/стремиться,2026-03-23,0.0,1
-875771161,New words,False,vulnerable,уязвимый/чувствительный,2026-04-21,2.5,0
-875771161,New words,False,Peachy,замечательный,2026-04-26,0.0,0
+875771161,New words,False,vulnerable,уязвимый/чувствительный,2026-05-02,4.75,0
+875771161,New words,False,Peachy,замечательный,2026-04-30,0.0,0
 875771161,New words,False,Marvelous,Чудесный,2026-04-29,4.75,0
 875771161,New words,False,Notch,насечка/выемка/надрез,2026-04-22,0.0,0
 875771161,New words,False,Defeat,поражение,2026-04-26,0.0,0
 875771161,New words,False,Thrilling,захватывающий/трепещущий,2026-04-19,0.0,0
-875771161,New words,False,Pearl,жемчужина,2026-04-27,2.5,0
+875771161,New words,False,Pearl,жемчужина,2026-05-03,4.75,0
 875771161,New words,False,Perfection,совершенство,2026-04-21,0.0,0
-875771161,New words,False,Offensive,агрессивный/наступательный,2026-04-24,0.0,0
+875771161,New words,False,Offensive,агрессивный/наступательный,2026-04-28,1.0,0
 875771161,New words,False,Sincerely,искренне,2026-04-25,1.0,0
 875771161,New words,False,Trial,Испытание,2026-04-24,0.0,0
 875771161,New words,False,Confession,Признание,2026-04-10,0.0,0
 875771161,New words,False,overlap,перекрытие,2026-04-24,1.0,0
-875771161,New words,False,Butler,Дворецкий,2026-04-10,0.0,0
+875771161,New words,False,Butler,Дворецкий,2026-05-01,1.0,0
 875771161,New words,False,Dismissed,Уволенный/отстраненный/отчисленный,2026-04-10,0.0,0
 875771161,New words,False,ditch,бросать,2026-04-21,1.0,0
 875771161,New words,False,Peanut,Арахис,2026-04-23,2.5,0
@@ -1083,6 +1083,6 @@ tg_id,pack_name,created_flag,front_word,back_word,date_of_repeat,repeat_length,i
 875771161,New words,False,Endure,Терпеть,2026-04-10,0.0,0
 875771161,New words,False,Fluid,Жидкость,2026-04-10,0.0,0
 875771161,New words,False,Insult,Оскорбление,2026-04-10,0.0,0
-875771161,New words,False,fancy,воображать,2026-04-12,0.0,0
-875771161,New words,False,Friction,Разногласие/противоречие,2026-04-27,1.0,0
-875771161,New words,False,Mock,издеваться/макет,2026-04-22,0.0,0
+875771161,New words,False,fancy,воображать,2026-05-01,0.0,0
+875771161,New words,False,Friction,Разногласие/противоречие,2026-05-01,2.5,0
+875771161,New words,False,Mock,издеваться/макет,2026-04-30,1.0,0

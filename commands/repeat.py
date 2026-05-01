@@ -94,7 +94,7 @@ def repeat_3(bot, call, way_to_data):
     rows = df[(pd.to_datetime(df['date_of_repeat']) <= datetime.now()) & (df['is_hidden'] != 1)].shape[0]
 
     row = df.loc[int(ind)]
-    if str(row['date_of_repeat'])>str(datetime.now().date()):
+    if str(row['date_of_repeat']).split(' ')[0]>str(datetime.now().date()):
         markup = types.InlineKeyboardMarkup(row_width=1)
         call_data_info = call.data.replace('check:', '')
         btn = types.InlineKeyboardButton(text='Продолжить повторение', callback_data=f"continue:{call_data_info}")
@@ -126,14 +126,14 @@ def edit(bot, call, way_to_data):
     message = call.message
 
     df = pd.read_csv(way_to_data, parse_dates=['date_of_repeat'], date_format='%Y-%m-%d',converters={'pack_name': str, 'front_word': str, 'back_word': str, 'repeat_length': float})
-    copy_df = df
+    copy_df = df.copy()
     df = df.loc[df['tg_id'] == call.message.chat.id]  # оставляем колоды только этого пользователя
     react, flag, name, ind = call.data.split(':')
     if name != 'random':
         df = df.loc[df['pack_name'] == name]
 
     row = df.loc[int(ind)]
-    if row['date_of_repeat']>str(datetime.now().date()): #это проверка, чтобы при параллельном повторении длина не менялась дважды
+    if str(row['date_of_repeat']).split(' ')[0]>str(datetime.now().date()): #это проверка, чтобы при параллельном повторении длина не менялась дважды
         repeat_2(bot, message, flag[0], name, way_to_data)
         return
 
