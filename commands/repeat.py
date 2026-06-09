@@ -158,7 +158,7 @@ def edit(bot, call, way_to_data):
         return
 
     try:
-        copy_df.loc[int(ind), 'date_of_repeat'] = datetime.now().date() + timedelta(days=floor(new_gap))
+        copy_df.loc[int(ind), 'date_of_repeat'] = (datetime.now().date() + timedelta(days=floor(new_gap))).strftime('%Y-%m-%d')
         copy_df.loc[int(ind), 'repeat_length'] = new_gap
         copy_df.to_csv(way_to_data, index=False)  # сохраняем df
 
