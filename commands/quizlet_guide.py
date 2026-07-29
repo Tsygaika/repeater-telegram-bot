@@ -92,7 +92,7 @@ def next_2_2(message, bot, call_data, way_to_data):   #пофиксить пов
         if len(elem) == 2:
             if len(df.index): ind = df.index[-1] + 1    #кринж какой-то
             else: ind = 0
-            df.loc[ind] = [message.chat.id, call_data, False, elem[0].replace(',','/'), elem[1].replace(',','/'), datetime.now().date(), 0]
+            df.loc[ind] = [message.chat.id, call_data, False, elem[0].replace(',','/'), elem[1].replace(',','/'), datetime.now().date(), 0, 0]
 
         else:   #если какая-то пара слов была введена неправильно
             add_text = add_text + '\n' +  '='. join(elem)   #добавляем к тексту исходный вид слов
